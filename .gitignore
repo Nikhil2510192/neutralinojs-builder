@@ -1,0 +1,7 @@
+node_modules/
+*.deb
+*_amd64/
+*_arm64/
+*_armhf/
+*_ia32/
+*.exe
