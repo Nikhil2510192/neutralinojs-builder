@@ -3,7 +3,7 @@
 A CLI plugin for the [Neutralinojs CLI](https://github.com/neutralinojs/neutralinojs-cli) 
 that generates platform-specific application installers from `neu build` output.
 
-Built as a proof-of-concept for GSoC 2025.
+Built as a proof-of-concept for GSoC 2026.
 
 ## Installation
 ```bash
